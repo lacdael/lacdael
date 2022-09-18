@@ -1,5 +1,5 @@
 - Hi, I’m @lacdael
-- I’m interested in isobus embedded linux, and blockchain
+- I’m interested in isobus embedded programming, linux, and blockchain
 - How to reach me: c.lacdael@live.co.uk
 
 <!---

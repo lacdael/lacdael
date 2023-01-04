@@ -1,5 +1,9 @@
 - Hi, I’m @lacdael
-- I’m interested in isobus embedded programming, linux, and blockchain
+- I’m interested in:
+  -  smart farming
+  -  embedded programming
+  -  linux
+  -  web 3.0
 - How to reach me: c.lacdael@live.co.uk
 
 <!---

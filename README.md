@@ -2,7 +2,7 @@
 - I’m interested in:
   -  smart farming
   -  embedded programming
-  -  linux
+  -  Radio Networking
   -  web 3.0
 - How to reach me: c.lacdael@live.co.uk
 

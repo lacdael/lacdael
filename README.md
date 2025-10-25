@@ -16,7 +16,7 @@
 
 # Company:
 
-- 🏦 Wisdel — embedded intelligent nodes for ISOBUS & sensors systems
+- 🏦 Wisdel — embedded intelligent nodes for ISOBUS & sensor systems
 
 **Wisdel** builds lightweight ISOBUS electronics, sensor nodes, and embedded controllers for agricultural and industrial systems.
 

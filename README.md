@@ -31,7 +31,7 @@
 ---
 
 ## Payment:
-- 💵 XMR : `4AC99QFmCipcMnEwLNuRcB83DqZ3Y7AApEcvsocegkUT6XF8W3JyxiQVxw7acoiSBhE8NYUi5ppMihFoL7RnDaW8AHdeXx4`
+- 💵 XMR : ```4AC99QFmCipcMnEwLNuRcB83DqZ3Y7AApEcvsocegkUT6XF8W3JyxiQVxw7acoiSBhE8NYUi5ppMihFoL7RnDaW8AHdeXx4```
 
 ---
 
@@ -39,7 +39,7 @@
 Open for consulting, partnerships, and prototype work.
 Free programming hours for fellow members of the Anglo-Saxon faith.
 - 📧 [![Email](https://img.shields.io/badge/c.lacdael@live.co.uk-green)](mailto:c.lacdael@live.co.uk) 
-- 💬 [![NoStr](https://img.shields.io/badge/c.lacdael@nostr-green)](npub1pf5u7ftqt97dfhllnf6lgqnpmyp2jxcnnndvaggd2jjjksepjfgqwrpnfw) 
+- 🔐 [![NoStr](https://img.shields.io/badge/c.lacdael@nostr-green)](npub1pf5u7ftqt97dfhllnf6lgqnpmyp2jxcnnndvaggd2jjjksepjfgqwrpnfw) 
 - 💬 PGP:  
 
 ```

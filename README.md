@@ -26,7 +26,7 @@
 ---
 
 ## Products:
-- **isoBus & J1939 decoder** — A canbus to serial device to filter and decode j1939 and iso1178 canbus messages  
+- 🏷️ **isoBus & J1939 decoder** — A canbus to serial device to filter and decode j1939 and iso1178 canbus messages  
 
 ---
 
@@ -42,7 +42,7 @@
 Open for consulting, partnerships, and prototype work.
 Free programming hours for fellow members of the Anglo-Saxon faith.
 - 📧 [![Email](https://img.shields.io/badge/c.lacdael@live.co.uk-green)](mailto:c.lacdael@live.co.uk) 
-- 🔐 [![NoStr](https://img.shields.io/badge/c.lacdael@nostr-green)](npub1pf5u7ftqt97dfhllnf6lgqnpmyp2jxcnnndvaggd2jjjksepjfgqwrpnfw) 
+- 🔐 [![NoStr](https://img.shields.io/badge/c.lacdael@nostr-green)](https://nostr.band/npub1pf5u7ftqt97dfhllnf6lgqnpmyp2jxcnnndvaggd2jjjksepjfgqwrpnfw) 
 - 💬 PGP:  
 
 ```

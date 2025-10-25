@@ -9,8 +9,7 @@
     - STM, ATSAM
     - embedded linux
     - freeRTOS, C
-    - flutter
-    - python
+    - flutter, python
     - iso1178
 
 ---

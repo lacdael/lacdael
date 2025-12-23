@@ -36,7 +36,7 @@
 ---
 
 ## Contact:
-Open for consulting, partnerships, and prototype work.
+Open for consulting, partnerships, and prototype work.  
 Free programming hours for ᚩᛗ•ᚾ, or, adjacent followers.
 - 📧 [![Email](https://img.shields.io/badge/c.lacdael@live.co.uk-green)](mailto:c.lacdael@live.co.uk) 
 - 💬 [![NoStr](https://img.shields.io/badge/c.lacdael@nostr-green)](https://nostr.band/npub1pf5u7ftqt97dfhllnf6lgqnpmyp2jxcnnndvaggd2jjjksepjfgqwrpnfw) 

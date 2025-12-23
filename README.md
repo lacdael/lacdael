@@ -6,11 +6,9 @@
     - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English ( Native )
     - 🇨🇿 Czech ( A2 )
 - 🧑🏻‍💻 Programming focus:
-    - STM, ATSAM
-    - embedded linux
-    - freeRTOS, C
-    - flutter, python
-    - iso1178
+    - Embedded, linux, freeRTOS
+    - C, flutter, python
+    - iso1178, J1939
 
 ---
 
@@ -39,7 +37,7 @@
 
 ## Contact:
 Open for consulting, partnerships, and prototype work.
-Free programming hours for fellow members of the Anglo-Saxon faith.
+Free programming hours for ᚩᛗ•ᚾ, or, adjacent followers.
 - 📧 [![Email](https://img.shields.io/badge/c.lacdael@live.co.uk-green)](mailto:c.lacdael@live.co.uk) 
 - 💬 [![NoStr](https://img.shields.io/badge/c.lacdael@nostr-green)](https://nostr.band/npub1pf5u7ftqt97dfhllnf6lgqnpmyp2jxcnnndvaggd2jjjksepjfgqwrpnfw) 
 - 🔐 PGP:  

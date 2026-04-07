@@ -9,25 +9,27 @@
     - Embedded, linux, freeRTOS
     - C, flutter, python
     - iso1178, J1939
-
+- 🌐 [ Website ](https://lacdael.github.io/lacdael/)
 ---
 
 # Company:
 
 - 🏦 Wisdel — embedded intelligent nodes for ISOBUS & sensor systems
+- 🌐 [ Website ](https://lacdael.github.io/lacdael/)
 
-**Wisdel** builds lightweight ISOBUS electronics, sensor nodes, and embedded controllers for agricultural and industrial systems.
+**Wisdel** focuses on realtime embedded systems, builing music modules and lightweight ISOBUS electronics, sensor nodes, and embedded controllers for agricultural and industrial systems.
 
 - 🎞️ [![Youtube](https://www.youtube.com/@try-restart)](https://www.youtube.com/@try-restart) 
 
 ---
 
 ## Products:
-- 🏷️ **isoBus & J1939 decoder** — A canbus to serial device to filter and decode j1939 and iso1178 canbus messages  
+- 🏷️ **BLE midi sequencer** — A BLE midi sequencer, built around a touch screen and an ESP32, in a eurorack form factor.
 
 ---
 
 ## Payment:
+- ⚡ Lightning: sappynetwork63@walletofsatoshi.com
 - 💵 XMR :
 ```
 4AC99QFmCipcMnEwLNuRcB83DqZ3Y7AApEcvsocegkUT6XF8W3JyxiQVxw7acoiSBhE8NYUi5ppMihFoL7RnDaW8AHdeXx4

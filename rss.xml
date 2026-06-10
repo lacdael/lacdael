@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wisdel.uk RSS Feed]]></title><description><![CDATA[Devlopment and news from Wisdel.uk]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 07 Apr 2026 20:00:18 GMT</lastBuildDate><item><title><![CDATA[LoRaWAN Network]]></title><description><![CDATA[To get familiar with the inner workings of a LoRaWAN network, I set up a network using a single basic LoRa node, a Heltec HT-M00 Gateway…]]></description><link>https://lacdael.github.io/latest/lorawan</link><guid isPermaLink="false">https://lacdael.github.io/latest/lorawan</guid><pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;To get familiar with the inner workings of a LoRaWAN network, I set up a network using a single basic LoRa node, a Heltec HT-M00 Gateway, and a ChirpStack server.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wisdel.uk RSS Feed]]></title><description><![CDATA[Devlopment and news from Wisdel.uk]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 10 Jun 2026 06:32:12 GMT</lastBuildDate><item><title><![CDATA[Virtual Terminal Client]]></title><description><![CDATA[The ISOBUS standard allows for the creation of custom control systems. As a demonstration, a Virtual Terminal (VT) is used with a VT client…]]></description><link>https://lacdael.github.io/latest/vt_client</link><guid isPermaLink="false">https://lacdael.github.io/latest/vt_client</guid><pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The ISOBUS standard allows for the creation of custom control systems. As a demonstration, a Virtual Terminal (VT) is used with a VT client connected to a pump and a flow meter to create a minimal watering system.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/lacdael/static/ff7bf0f1fd4a95b934126df00c01ad4f/29114/vt_client.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.49999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAC4jAAAuIwF4pT92AAACpElEQVR42hWRS0zTAACGe4XB2PrYunbPdlv3oOu6dd2jo3shMnA8ZIwxmAorDIwRnRoJGNli1A0SCTJkF2MASYwnvWAiJxPvnkzUm/HoRRNfISZzJt/tT778yQdwwcjgcDranxITSZYXjGYn7Qn4hVjidCqbn6FdrJfz+/hgC1GMOxyMm+HESBxGNCo1DhSLixsbG+u19XK5srn5oFat7u/vFQpzvYm+w6cHrWlleXW3/qjRaNyvVbfr9UZjV5pbaJOBalQHkBZHSIhEEn1OmuV8Qd4vBAXRSnXjOhPr4flAyB0N2EJexu+3W2meC3N8j95IwRCGqHDAbHFI0vzVpdLK8kpx/uJkdqp8u9IjxDpkoKwNUtm1o4XhqbFkNBVXBWnIpiUYvYEhYL0OgjCAsrkkqTgh5S9ckm6Ub2al6cur19xhXo7BCjXMnglNzC6sJtKlXC6ck9iRmDjuDo+6fGcpjVMPqFEDasInpfHK9r1bm2t3d+7MLKSFRJBLp5xDA4ZeK5+LhgujvrFs/3gBnRQg0QzJcVIwO2NmANeSJE3Wtpa+N380/zabzZMn1Uo61pssSK7kgCFKEkMkk6eZjN8Q57URSoVhqNHApGyEjwA0OGFhiOcH9T/Nk98/f337+uXhcskXJJUeE2LDVDq9ucfuzXl8014tq1egiCvJB8Yoi2gCYQxQa0wUa2zUq6/fHr88frG1tyOdH3FzJrlSDXVpEFTnznj0AbOlz+bKc6WNyruPnw6PnoE0Lm+H/t822SnETSAOPWLTYrQJd5Oo2dgqAao0ShDFXMbuaYYcpIhT3Q8e7xy9evP+w+fZtcV2UAm03BCEIrBWjehUMN4CUWogEFUokS4FLJdDHZ2gAkLkCrijUykzKK0xOnPlXOb6bKca/Aebf7Wxxhwq3QAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Virtual Terminal Client&quot;
+        title=&quot;&quot;
+        src=&quot;/lacdael/static/ff7bf0f1fd4a95b934126df00c01ad4f/5a190/vt_client.png&quot;
+        srcset=&quot;/lacdael/static/ff7bf0f1fd4a95b934126df00c01ad4f/772e8/vt_client.png 200w,
+/lacdael/static/ff7bf0f1fd4a95b934126df00c01ad4f/e17e5/vt_client.png 400w,
+/lacdael/static/ff7bf0f1fd4a95b934126df00c01ad4f/5a190/vt_client.png 800w,
+/lacdael/static/ff7bf0f1fd4a95b934126df00c01ad4f/c1b63/vt_client.png 1200w,
+/lacdael/static/ff7bf0f1fd4a95b934126df00c01ad4f/29007/vt_client.png 1600w,
+/lacdael/static/ff7bf0f1fd4a95b934126df00c01ad4f/29114/vt_client.png 1920w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/Tpx4FaQ9Oog&quot;&gt;Watch the Video&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;VT Client&lt;/h1&gt;
+&lt;p&gt;To interact with an ISOBUS Virtual Terminal (VT), a VT client must perform the following steps as defined by the standard:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Undergo CAN bus address claiming.&lt;/li&gt;
+&lt;li&gt;Listen for the VT status message.&lt;/li&gt;
+&lt;li&gt;Send the Working Set Master message.&lt;/li&gt;
+&lt;li&gt;Begin transmitting VT client status messages.&lt;/li&gt;
+&lt;li&gt;Upload its serialised user interface using the transport protocol for packetisation.&lt;/li&gt;
+&lt;li&gt;Send user interface updates and listen for user interface events.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I used &lt;a href=&quot;https://github.com/moehman/PoolEditDist&quot;&gt;Pool Edit&lt;/a&gt; to create a minimal ISOBUS user interface consisting of a bar graph and two buttons.&lt;/p&gt;
+&lt;p&gt;The VT client hardware is connected to a pump through a PWM driver and to a flow meter connected to an input pin configured with an interrupt to monitor pulse counts.&lt;/p&gt;
+&lt;p&gt;Once the VT client is initialised, the calculated and scaled flow rate value is sent to the VT to update the bar graph on the user interface using an object ID reference.&lt;/p&gt;
+&lt;p&gt;When a button is pressed on the VT, a message is sent to the VT client containing an object ID reference and a key code value. The VT client then performs the action associated with that object ID and key code. In this demonstration, the action adjusts the PWM output, which controls the pump speed.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[LoRaWAN Network]]></title><description><![CDATA[To get familiar with the inner workings of a LoRaWAN network, I set up a network using a single basic LoRa node, a Heltec HT-M00 Gateway…]]></description><link>https://lacdael.github.io/latest/lorawan</link><guid isPermaLink="false">https://lacdael.github.io/latest/lorawan</guid><pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;To get familiar with the inner workings of a LoRaWAN network, I set up a network using a single basic LoRa node, a Heltec HT-M00 Gateway, and a ChirpStack server.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;

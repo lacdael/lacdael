@@ -29,7 +29,7 @@
 ---
 
 ## Payment:
-- ⚡ Lightning: sappynetwork63@walletofsatoshi.com
+- ⚡ Lightning: dulcetgossamer662519@getalby.com
 - 💵 XMR :
 ```
 4AC99QFmCipcMnEwLNuRcB83DqZ3Y7AApEcvsocegkUT6XF8W3JyxiQVxw7acoiSBhE8NYUi5ppMihFoL7RnDaW8AHdeXx4

@@ -10,6 +10,8 @@
     - C, flutter, python
     - iso1178, J1939
 - 🌐 [ Website ](https://lacdael.github.io/lacdael/)
+- 🎁 [ Gift ](https://poetry.me.uk/gift/)
+
 ---
 
 # Company:
@@ -27,16 +29,6 @@
 - 🏷️ **BLE midi sequencer** — A BLE midi sequencer, built around a touch screen and an ESP32, in a eurorack form factor.
 
 ---
-
-## Payment:
-- ⚡ Lightning: dulcetgossamer662519@getalby.com
-- 💵 XMR :
-```
-4AC99QFmCipcMnEwLNuRcB83DqZ3Y7AApEcvsocegkUT6XF8W3JyxiQVxw7acoiSBhE8NYUi5ppMihFoL7RnDaW8AHdeXx4
-```
-
----
-
 ## Contact:
 Open for consulting, partnerships, and prototype work.  
 Free programming hours for ᚩᛗ•ᚾ, or, adjacent.
